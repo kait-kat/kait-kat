@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kait-kat
-- 👀 I’m interested in growing 
-- 🌱 I’m currently learning 
-
+I'm currently a student in a UCB program hoping to extend my knowledge and grow.
 
 
 <!---
